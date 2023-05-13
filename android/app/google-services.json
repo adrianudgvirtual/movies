@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "734317095818",
+    "project_id": "movies-db-udg",
+    "storage_bucket": "movies-db-udg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734317095818:android:357c3a77fe32ca2ecb7673",
+        "android_client_info": {
+          "package_name": "com.example.cinephilecentral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734317095818-1jubcdfq6pioa5obgk4nito5em3ljphv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMU-QuJHDCN-uTprxLfFL7KGjLCERAus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734317095818-1jubcdfq6pioa5obgk4nito5em3ljphv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734317095818-7t422gontbsb6t7bcpq3mdask7cq7e5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cinephilecentral"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734317095818:android:fd34c18f1a0bf669cb7673",
+        "android_client_info": {
+          "package_name": "com.example.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734317095818-1jubcdfq6pioa5obgk4nito5em3ljphv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMU-QuJHDCN-uTprxLfFL7KGjLCERAus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734317095818-1jubcdfq6pioa5obgk4nito5em3ljphv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734317095818-7t422gontbsb6t7bcpq3mdask7cq7e5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cinephilecentral"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
